@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -15,6 +16,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
