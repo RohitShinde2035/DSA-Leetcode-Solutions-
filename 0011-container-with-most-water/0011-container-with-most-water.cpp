@@ -6,7 +6,11 @@ public:
 
         while(l<r){
             int area = min(height[l], height[r])* (r-l); // area = h*w
-            max_area = max(area, max_area);
+            
+            if(area>max_area){
+                max_area = area;
+            }
+
             if (height[l]<=height[r]){
                 l++;
             }
