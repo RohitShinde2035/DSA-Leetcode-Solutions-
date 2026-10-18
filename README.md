@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
