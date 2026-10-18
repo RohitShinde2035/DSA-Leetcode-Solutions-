@@ -3,28 +3,32 @@ public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         int n = nums.size();
 
-        vector<int> result;
-        result.reserve(n - k + 1);
+        vector<int> ans;
+        ans.reserve(n - k + 1);
 
-        deque<int> dq;
+        vector<int> dq(n);
+        int head = 0, tail = 0;
 
         for (int r = 0; r < n; r++) {
 
-            while (!dq.empty() && dq.front() <= r - k) {
-                dq.pop_front();
+            // Remove indices outside the window
+            while (head < tail && dq[head] <= r - k) {
+                head++;
             }
 
-            while (!dq.empty() && nums[dq.back()] <= nums[r]) {
-                dq.pop_back();
+            // Remove smaller or equal elements
+            while (head < tail && nums[dq[tail - 1]] <= nums[r]) {
+                tail--;
             }
 
-            dq.push_back(r);
+            dq[tail++] = r;
 
+            // Store maximum for each complete window
             if (r >= k - 1) {
-                result.push_back(nums[dq.front()]);
+                ans.push_back(nums[dq[head]]);
             }
         }
 
-        return result;
+        return ans;
     }
 };
