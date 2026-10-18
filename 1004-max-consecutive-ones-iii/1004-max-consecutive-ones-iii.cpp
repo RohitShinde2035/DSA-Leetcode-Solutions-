@@ -14,7 +14,10 @@ public:
                 }
                 l++;
             }
-            max_count = max(max_count, r-l+1);
+            // max_count = max(max_count, r-l+1);
+            if((r-l+1)>max_count){
+                max_count = r-l+1;
+            }
         }
         return max_count;
     }
