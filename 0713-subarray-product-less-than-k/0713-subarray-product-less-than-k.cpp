@@ -4,7 +4,8 @@ public:
 
         if(k<=1) return 0;
 
-        int  l = 0, r = 0, count = 0, product = 1;
+        int  l = 0, r = 0, count = 0;
+        long long product = 1;
 
         for(int r = 0; r < nums.size(); r++){
             product *= nums[r];
