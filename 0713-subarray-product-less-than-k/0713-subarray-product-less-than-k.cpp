@@ -9,7 +9,7 @@ public:
         for(int r = 0; r < nums.size(); r++){
             product *= nums[r];
             while(product>=k){
-                product = product / nums[l];
+                product /=  nums[l];
                 l++;
             }
             count += (r-l+1);
