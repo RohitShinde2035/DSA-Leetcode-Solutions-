@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -11,6 +12,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -32,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
