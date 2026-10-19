@@ -2,7 +2,7 @@ class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
         
-        int ans = 0, l = 0;
+        long long ans = 0, l = 0;
         map<int, int> mp;
         
         for( int r = 0; r < fruits.size() ; r++){
