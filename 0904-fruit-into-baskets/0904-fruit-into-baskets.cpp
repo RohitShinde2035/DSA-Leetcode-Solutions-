@@ -3,7 +3,7 @@ public:
     int totalFruit(vector<int>& fruits) {
         
         long long ans = 0, l = 0;
-        map<int, int> mp;
+        unordered_map<int, int> mp;
         
         for( int r = 0; r < fruits.size() ; r++){
             mp[fruits[r]]+=1;
