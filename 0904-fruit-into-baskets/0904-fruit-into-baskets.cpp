@@ -7,8 +7,7 @@ public:
         
         for( int r = 0; r < fruits.size() ; r++){
             mp[fruits[r]]+=1;
-            if(mp.size()<=2){
-            }
+
             while(mp.size()>2){
                 mp[fruits[l]]-=1;
                 if(mp[fruits[l]]==0){
