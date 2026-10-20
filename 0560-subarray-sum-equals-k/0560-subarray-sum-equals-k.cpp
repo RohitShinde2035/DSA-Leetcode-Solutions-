@@ -6,8 +6,8 @@ public:
         unordered_map<int, int> mp;
         mp[0] = 1;
 
-        for(int i = 0; i<nums.size(); i++){
-            sum += nums[i];
+        for(int x : nums){
+            sum += x;
             // int target = sum - k;
             if(mp.count(sum - k)){
                 count += mp[sum-k];
