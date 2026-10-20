@@ -6,12 +6,13 @@ public:
         unordered_map<int, int> mp;
         mp[0] = 1;
 
-        for(int i : nums){
-            sum += i;
-            // int target = sum - k;
-            count += mp[sum-k];
-            
-            mp[sum]++;
+        for(int i = 0; i<nums.size(); i++){
+            sum += nums[i];
+            int target = sum - k;
+            if(mp.count(target)){
+                count += mp[target];
+            }
+            mp[sum] += 1;
         }
         return count;
     }
