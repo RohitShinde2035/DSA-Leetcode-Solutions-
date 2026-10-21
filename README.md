@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -85,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
