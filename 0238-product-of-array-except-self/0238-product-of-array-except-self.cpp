@@ -11,7 +11,7 @@ public:
             res[i] = res[i-1] * nums[i-1]; 
         }
 
-        int right_product = 1;
+        long long right_product = 1;
 
         for(int r = n-1; r >= 0; r--){
             res[r] = res[r] * right_product;
