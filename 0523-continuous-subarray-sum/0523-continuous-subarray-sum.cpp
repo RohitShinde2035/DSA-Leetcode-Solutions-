@@ -2,7 +2,7 @@ class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
         
-        long long prefix_sum = 0;
+        int prefix_sum = 0;
         unordered_map<int, int> mp;
         mp.reserve(nums.size() + 1);
         mp[0] = -1;
@@ -11,7 +11,7 @@ public:
             prefix_sum += nums[i];
             int rem = prefix_sum % k ;
 
-            if(mp.find(rem)!=mp.end()){
+            if(mp.count(rem)){
                 if(i - mp[rem] >= 2){
                     return true;
                 }
