@@ -2,7 +2,7 @@ class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
         
-        int count = 0, sum = 0;
+        long long count = 0, sum = 0;
 
         unordered_map<int, int> mp;
         mp[0] = 1;
@@ -16,7 +16,7 @@ public:
             if(mp.count(rem)){
                 count += mp[rem];
             }
-            mp[rem] += 1;
+            mp[rem] ++;
         }
         return count;
     }
