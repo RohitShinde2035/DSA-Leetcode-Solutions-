@@ -2,8 +2,9 @@ class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
         
-        int prefix_sum = 0;
+        long long prefix_sum = 0;
         unordered_map<int, int> mp;
+        mp.reserve(nums.size() + 1);
         mp[0] = -1;
 
         for(int i = 0; i < nums.size(); i++){
