@@ -11,7 +11,7 @@ public:
             prefix_sum += nums[i];
             int rem = prefix_sum % k ;
 
-            if(mp.count(rem)){
+            if(mp.find(rem)!=mp.end()){
                 if(i - mp[rem] >= 2){
                     return true;
                 }
