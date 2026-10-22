@@ -18,6 +18,7 @@
 | [0523-continuous-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -94,6 +95,7 @@
 | [0523-continuous-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1314-matrix-block-sum/) | Medium |
