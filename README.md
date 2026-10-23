@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1929-concatenation-of-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
