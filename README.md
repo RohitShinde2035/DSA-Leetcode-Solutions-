@@ -40,6 +40,7 @@
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +149,8 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->.  
