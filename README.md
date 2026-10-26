@@ -27,6 +27,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1314-matrix-block-sum/) | Medium |
 | [1470-shuffle-the-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1470-shuffle-the-array/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -70,6 +71,7 @@
 | [0053-maximum-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
