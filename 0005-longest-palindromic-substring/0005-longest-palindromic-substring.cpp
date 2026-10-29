@@ -1,30 +1,27 @@
 class Solution {
 public:
-    // bruteforce
     string longestPalindrome(string s) {
-        
-        string res = "";
-        for(int i = 0; i < s.size(); i++){
-            for(int j = i; j < s.size(); j++){
-                if(fun(s,i,j) == true){
-                    if(j-i+1 > res.size()){
-                        res = s.substr(i,j-i+1);
-                    }
-                }
+        int n = s.size();
+        int strt = 0, end = 0;
+        for(int i = 0; i < n; i++){
+            int len1 = expand(s,i,i);
+            int len2 = expand(s,i,i+1);
+            int len = max(len1, len2);
+            if(len > (end-strt)){
+                strt = i-(len-1)/2;
+                end = i + len/2;
             }
         }
-        return res;
-
+        return s.substr(strt, end-strt+1);
     }
+
 private:
-    bool fun(string& s, int i, int j){
-        while(i<j){
-            if(s[i]!=s[j]){
-                return false;
-            }
-            i++, j--;
+    int expand(string& s, int l, int r){
+        while(l>=0 && r<s.size() && s[l]==s[r]){
+            l--;
+            r++;
         }
-        return true;
+        return r-l-1;
     }
 
 };
