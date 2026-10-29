@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // bruteforce
     string longestPalindrome(string s) {
         
         string res = "";
