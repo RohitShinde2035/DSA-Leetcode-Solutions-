@@ -24,6 +24,7 @@
 | [0904-fruit-into-baskets](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1314-matrix-block-sum/) | Medium |
 | [1470-shuffle-the-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1470-shuffle-the-array/) | Easy |
@@ -95,6 +96,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@
 | [0239-sliding-window-maximum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
@@ -168,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 <!---LeetCode Topics End-->.  
