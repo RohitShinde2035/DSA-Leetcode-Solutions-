@@ -3,7 +3,7 @@ public:
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         return atmost(nums, k) - atmost(nums, k-1);
     }
-    int atmost(vector<int> nums, int k){
+    int atmost(vector<int>& nums, int k){
         int l = 0, count = 0;
         unordered_map<int, int> mp ;
 
