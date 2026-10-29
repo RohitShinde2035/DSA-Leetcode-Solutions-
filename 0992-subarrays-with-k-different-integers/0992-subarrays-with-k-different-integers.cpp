@@ -10,9 +10,9 @@ private:
         unordered_map<int, int> mp ;
 
         for(int r = 0; r<nums.size(); r++){
-            mp[nums[r]] += 1;
+            mp[nums[r]]++;
             while(mp.size()>k){
-                mp[nums[l]] -= 1;
+                mp[nums[l]]--;
                 if(mp[nums[l]]==0){
                     mp.erase(nums[l]);
                 }
