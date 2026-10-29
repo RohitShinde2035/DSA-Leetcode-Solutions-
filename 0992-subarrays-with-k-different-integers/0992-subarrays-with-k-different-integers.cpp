@@ -10,8 +10,8 @@ public:
         for(int r = 0; r<nums.size(); r++){
             mp[nums[r]]++;
             while(mp.size()>k){
-                mp[nums[l]]--;
-                if(mp[nums[l]]==0){
+                // mp[nums[l]]--;
+                if(--mp[nums[l]]==0){
                     mp.erase(nums[l]);
                 }
                 l++;
