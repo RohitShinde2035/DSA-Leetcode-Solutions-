@@ -2,29 +2,29 @@ class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
         
-        // with 2 maps
-
         vector<int> res;
-        if(s.size() < p.size()) {
+        if(s.size() < p.size()){
             return res;
         }
-        unordered_map<char, int> pMap, sMap;
+        unordered_map<char, int> mp;
         for(char c : p){
-            pMap[c]++;
+            mp[c]++;
         }
         int l = 0, count = p.size();
         for(int r = 0; r < s.size(); r++){
             char ch = s[r];
-            sMap[ch]++;
-            if(pMap.count(ch) && sMap[ch] <= pMap[ch]){ 
-                count --;
+            int val = mp[ch];
+            if(val > 0){
+                count--;
             }
+            mp[ch]--;
             if(r-l+1 > p.size()){
                 char lchar = s[l];
-                if(pMap.count(lchar) && sMap[lchar] <= pMap[lchar]){
-                    count ++;
+                int lval = mp[lchar];
+                if(lval >= 0){
+                    count++;
                 }
-                sMap[lchar]--;
+                mp[lchar]++;
                 l++;
             }
             if(count == 0){
