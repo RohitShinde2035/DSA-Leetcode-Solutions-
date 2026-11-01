@@ -11,29 +11,26 @@ public:
         }
 
         int l = 0, count = t.size();
-        unordered_map<char, int> sMap;
         int minlen = INT_MAX;
         int lans = 0, rans = 0;
 
         for(int r = 0; r < s.size(); r++){
-            // char ch = s[r];
-            sMap[s[r]]++;
+            char ch = s[r];
 
-            if(tMap.count(s[r]) && tMap[s[r]] >= sMap[s[r]]){
-                count --;
+            if(tMap.count(ch)){
+                if(tMap[ch] > 0) count --;
+                tMap[ch]--;
             }
-
             while(count == 0){
                 if(r-l+1 < minlen){
                     minlen = r-l+1;
-                    // ans = s.substr(l,r-l+1);
                     lans = l;
                     rans = r;
                 }
-                // char lchar = s[l];
-                sMap[s[l]] --;
-                if(tMap.count(s[l]) && tMap[s[l]] > sMap[s[l]]){
-                    count++;
+                char lchar = s[l];
+                if(tMap.count(lchar)){
+                    tMap[lchar]++;
+                    if(tMap[lchar] > 0) count ++;
                 }
                 l++;
             }
