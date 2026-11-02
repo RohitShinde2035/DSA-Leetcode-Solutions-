@@ -51,6 +51,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0704-binary-search/) | Easy |
@@ -156,6 +157,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -190,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->.  
