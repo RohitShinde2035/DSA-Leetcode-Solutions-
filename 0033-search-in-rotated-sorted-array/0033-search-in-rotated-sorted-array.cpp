@@ -5,7 +5,7 @@ public:
         while(l<=r){
             int mid = l + (r-l)/2 ;
             if(nums[mid]==target) return mid;
-            if(nums[mid] >= nums[l]){
+            if(nums[mid] >= nums[l]){// left sorted array
                 if(target>=nums[l] && target < nums[mid]){
                     r = mid-1;
                 }
@@ -13,7 +13,7 @@ public:
                     l = mid+1;
                 }
             }
-            else{
+            else{// right sorted array
                 if(target> nums[mid] && target<= nums[r]){
                     l = mid+1;
                 }
