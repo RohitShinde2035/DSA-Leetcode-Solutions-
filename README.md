@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
@@ -51,6 +52,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
