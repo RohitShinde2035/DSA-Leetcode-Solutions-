@@ -17,6 +17,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -48,6 +49,7 @@
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
@@ -168,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0189-rotate-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
