@@ -38,6 +38,7 @@
 | [1314-matrix-block-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1314-matrix-block-sum/) | Medium |
 | [1470-shuffle-the-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
@@ -73,6 +74,7 @@
 | [0875-koko-eating-bananas](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
