@@ -22,6 +22,7 @@
 | [0238-product-of-array-except-self](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -71,6 +72,7 @@
 | [0162-find-peak-element](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0011-container-with-most-water/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -105,6 +108,7 @@
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0647-palindromic-substrings](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -148,6 +152,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
