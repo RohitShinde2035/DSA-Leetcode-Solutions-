@@ -38,6 +38,7 @@
 | [1314-matrix-block-sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1314-matrix-block-sum/) | Medium |
 | [1470-shuffle-the-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1929-concatenation-of-array](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1929-concatenation-of-array/) | Easy |
@@ -76,12 +77,14 @@
 | [1004-max-consecutive-ones-iii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0075-sort-colors/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
