@@ -33,6 +33,7 @@
 | [0704-binary-search](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -124,12 +125,14 @@
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
