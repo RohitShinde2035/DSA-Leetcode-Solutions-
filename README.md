@@ -126,6 +126,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0394-decode-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0735-asteroid-collision/) | Medium |
@@ -233,6 +234,7 @@
 | [0076-minimum-window-substring](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0647-palindromic-substrings/) | Medium |
@@ -249,4 +251,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0069-sqrtx/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/RohitShinde2035/DSA-Leetcode-Solutions-/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->.  
